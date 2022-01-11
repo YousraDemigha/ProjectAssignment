@@ -1,0 +1,6 @@
+2022-01-11 00:17:49.7932|0|DEBUG||Menu.Program|init main |url: |action: |Menu.Program.Main| body: 
+2022-01-11 00:17:56.5406|0|INFO||Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync| body: 
+2022-01-11 00:17:56.6630|0|INFO||Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync| body: 
+2022-01-11 00:17:56.6630|0|INFO||Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2022-01-11 00:17:56.6869|0|INFO||Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2022-01-11 00:17:56.6869|0|INFO||Microsoft.Hosting.Lifetime|Content root path: C:\Users\YOUSS\source\EFastFood\Menu |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 

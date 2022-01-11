@@ -1,0 +1,5 @@
+2022-01-10 22:05:12.2636|0|DEBUG||MakeOrder.Program|init main |url: |action: |MakeOrder.Program.Main| body: 
+2022-01-10 22:05:20.9225|0|INFO||Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync| body: 
+2022-01-10 22:05:21.0443|0|INFO||Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2022-01-10 22:05:21.0443|0|INFO||Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2022-01-10 22:05:21.0520|0|INFO||Microsoft.Hosting.Lifetime|Content root path: C:\Users\YOUSS\source\EFastFood\MakeOrder |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 

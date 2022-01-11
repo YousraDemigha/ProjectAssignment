@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MakeOrder", "MakeOrder\MakeOrder.csproj", "{47133883-7081-4804-941F-EE254156EA9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu", "Menu\Menu.csproj", "{31BD246D-E859-4C27-B220-A54032856B29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderStatus", "OrderStatus\OrderStatus.csproj", "{949E42D2-943D-467D-83DC-E6661D5B4C43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47133883-7081-4804-941F-EE254156EA9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47133883-7081-4804-941F-EE254156EA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47133883-7081-4804-941F-EE254156EA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47133883-7081-4804-941F-EE254156EA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31BD246D-E859-4C27-B220-A54032856B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31BD246D-E859-4C27-B220-A54032856B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31BD246D-E859-4C27-B220-A54032856B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31BD246D-E859-4C27-B220-A54032856B29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{949E42D2-943D-467D-83DC-E6661D5B4C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949E42D2-943D-467D-83DC-E6661D5B4C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{949E42D2-943D-467D-83DC-E6661D5B4C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949E42D2-943D-467D-83DC-E6661D5B4C43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EF005F6-C86B-4092-80F7-E84C2995428F}
+	EndGlobalSection
+EndGlobal

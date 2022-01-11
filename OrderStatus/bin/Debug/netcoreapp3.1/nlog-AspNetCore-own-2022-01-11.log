@@ -1,0 +1,6 @@
+2022-01-11 00:29:21.3581|0|DEBUG||OrderStatus.Program|init main |url: |action: |OrderStatus.Program.Main| body: 
+2022-01-11 00:29:28.1649|0|INFO||Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync| body: 
+2022-01-11 00:29:28.3289|0|INFO||Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync| body: 
+2022-01-11 00:29:28.3325|0|INFO||Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2022-01-11 00:29:28.4244|0|INFO||Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2022-01-11 00:29:28.4263|0|INFO||Microsoft.Hosting.Lifetime|Content root path: C:\Users\YOUSS\source\EFastFood\OrderStatus |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 

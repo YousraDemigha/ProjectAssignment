@@ -1,0 +1,6 @@
+2022-01-10 22:05:11.2167 Info Message Template Auto Format enabled
+2022-01-10 22:05:11.3838 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-10 22:05:11.6830 Info Adding target FileTarget(Name=allfile)
+2022-01-10 22:05:11.6830 Info Adding target FileTarget(Name=ownFile-web)
+2022-01-10 22:05:11.8171 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-01-10 22:05:12.0726 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=66, FilePath=C:\Users\YOUSS\source\EFastFood\MakeOrder\bin\Debug\net5.0\nlog.config
